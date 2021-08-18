@@ -1,0 +1,26 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = kokob 1
+
+## Media
+
+### Title
+panorama_444362DE_59C4_13B3_41AF_BA15E4EE84C9.label = kokob 1 A1
+panorama_47B8FBE3_5A5C_1191_41B4_FA4BA5EB23B7.label = kokob 1 A4
+panorama_506667E5_59BC_3191_41C0_CDE6EEDC6FC7.label = kokob 1 A10
+panorama_506678CB_59BC_1F91_41C6_84D6BC55252E.label = kokob 1 A12
+panorama_506683A5_59BC_1191_41D1_74EADB5FF3C3.label = kokob 1 A15
+panorama_5066CB01_59BC_F291_41C2_A6AF285F4E2C.label = kokob 1 A14
+panorama_50677228_59BC_F29F_41CC_26E66CC5DB0E.label = kokob 1 A13
+panorama_5067B6FE_59BC_1372_41C4_D2D99347EB69.label = kokob 1 A8
+panorama_5067BE7B_59BC_1371_41C4_0F67E6E2019C.label = kokob 1 A5
+panorama_5067C09A_59BC_2FB3_41C1_8DCCA8B4A26A.label = kokob 1 A11
+panorama_5067EED1_59BC_738E_41BC_5FB06F6B919E.label = kokob 1 A7
+panorama_5067EF4A_59BC_1293_417D_BE1D0A2FC22A.label = kokob 1 A9
+panorama_5067F6A3_59BC_7391_41D3_E46783BDF063.label = kokob 1 A6
+panorama_54AB70A0_59C4_6F8F_41C1_32844DE03AB4.label = kokob 1 A2
