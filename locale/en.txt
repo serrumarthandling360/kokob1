@@ -11,7 +11,7 @@ tour.name = kokob 1
 
 ### Title
 panorama_444362DE_59C4_13B3_41AF_BA15E4EE84C9.label = kokob 1 A1
-panorama_47B8FBE3_5A5C_1191_41B4_FA4BA5EB23B7.label = kokob 1 A4
+panorama_45873077_5A4C_6F71_419C_C60D52C2BBAD.label = kokob 1 A4
 panorama_506667E5_59BC_3191_41C0_CDE6EEDC6FC7.label = kokob 1 A10
 panorama_506678CB_59BC_1F91_41C6_84D6BC55252E.label = kokob 1 A12
 panorama_506683A5_59BC_1191_41D1_74EADB5FF3C3.label = kokob 1 A15
